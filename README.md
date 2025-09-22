@@ -84,9 +84,9 @@ Open Source Mathematica ® Code Multiconductor Modeling and Analysis of Microstr
     <p align="center">&nbsp;</p>
     <p align="center">&nbsp;</p>
     <p align="center">&nbsp;</p>
-    <div id=notes111></div>
+  
 <div id="notes"><strong>Notes</strong></div>
-     <p style="margin-left:1em;">The Mathematica Code (Ardalan) is based on Riddle, Ardalan , Suh, 1988 <a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"><img src="pdf.gif" width="22" height="21" alt=""/></a> and has no approximations. Dr. Ardalan was Riddle's Masters Thesis Advisor at NC STate University Department of Electrical Engineering. Although the code provided is for a 2 Conductor Coupled Microstrip circuit it is written for an arbitrary  number of conductors. The key is to generate the Per Unit Length Parameters using the Mathematica <a href="#tools1">Tool</a> and pasting them in ( for Matrices LL and Cap). Also set the number of conductors ( NN). Note that you must decide which result you want to examine. Look at the Vx vector which is the calculated voltage at each node at a distance x from the source To calculate S14 ( Far End Crosstalk) you need Vx for x=0 and Vx fo x=L. Two step process. Unless you set the source impedance to zero for the generator.</p>
+     <p style="margin-left:1em;">The Mathematica Code (Ardalan) is based on Riddle, Ardalan , Suh, 1988 <a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"><img src="pdf.gif" width="22" height="21" alt=""/></a> and has no approximations. Dr. Ardalan was Riddle's Masters Thesis Advisor at NC State University, Department of Electrical Engineering. Although the code provided is for a 2 Conductor Coupled Microstrip circuit it is written for an arbitrary  number of conductors. The key is to generate the Per Unit Length Parameters using the Mathematica <a href="#tools1">Tool</a> and pasting them in ( for Matrices LL and Cap). Also set the number of conductors ( NN). Note that you must decide which result you want to examine. Look at the Vx vector which is the calculated voltage at each node at a distance x from the source To calculate S14 ( Far End Crosstalk) you need Vx for x=0 and Vx fo x=L. Two step process. Unless you set the source impedance to zero for the generator.</p>
  
 <p>
 <a href="http://www.silicondsp.com"><img src="sd-logo-tm_sm.gif" width="67" height="69" alt=""></a>
