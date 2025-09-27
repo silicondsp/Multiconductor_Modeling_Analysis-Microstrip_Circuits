@@ -1,4 +1,4 @@
-# Multiconductor_Modeling_Analysis-Microstrip_Circuits
+# Multiconductor Modeling Analysis Microstrip Circuits
 Open Source Mathematica ® Code Multiconductor Modeling and Analysis of Microstrip Circuits.
 Visit <a href="https://www.RadioCalc.com">RadioCalc</a>.
 <p>Note: HTML links to Code for reference. Always run the Mathematica&reg; Notebook (.nb). Click on Notebook link then download.</p>
