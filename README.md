@@ -16,14 +16,14 @@ Visit <a href="https://www.RadioCalc.com">RAdioCalc</a>.
           <td><div align="center">1</div></td>
           <td>Near End Cross Talk. Mathematica&reg; Code for Multiconductor Microstrip  Based on Riddle, Ardalan, Suh<em> </em>Report <a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"><img src="pdf.gif" width="22" height="21" alt=""/></a>. Two Conductor Microstrip Parameters Based on [Hill,1994]. See <a href="#notes">Notes</a>. Code is for arbitrary number of conductors. Use the <a href="#tools">Tool</a> to generate Per Unit Parameters for Microstrip Circuit.</td>
           <td><a href="Microstrip/Multiconductor_PerUnitLengthMicrostripAboveGround_2_Conductor_Comparison_Published_Results.nb">Notebook</a></td>
-          <td><a href="Microstrip/WEBViews/Multiconductor_PerUnitLengthMicrostripAboveGround_2_Conductor_Comparison_Published_Results/Multiconductor_PerUnitLengthMicrostripAboveGround_2_Conductor_Comparison_Published_Results.htm">HTML</a></td>
+          <td><a href="https://www.radiocalc.com/MultiConductorCAD/Microstrip/WEBViews/Multiconductor_PerUnitLengthMicrostripAboveGround_2_Conductor_Comparison_Published_Results/Multiconductor_PerUnitLengthMicrostripAboveGround_2_Conductor_Comparison_Published_Results.htm">HTML</a></td>
           <td><p><a href="Microstrip/Near_End_Cross_Talk_Mathematica_Code_Based_On_Ardalan_et_al_1988.png">Near  End Cross Talk S13</a></p></td>
         </tr>
         <tr>
           <td><div align="center">2</div></td>
           <td>Near End Cross Talk. Mathematica&reg; Code for Multiconductor Microstrip  Based on Theory [Hill, 1994] </td>
           <td><a href="Microstrip/Multiconductor_Microstrip_Theory_2_Conductor.nb">Notebook</a></td>
-          <td><a href="Microstrip/WEBViews/Multiconductor_Microstrip_Theory_2_Conductor/Multiconductor_Microstrip_Theory_2_Conductor.htm">HTML</a></td>
+          <td><a href="https://www.radiocalc.com/MultiConductorCAD/Microstrip/WEBViews/Multiconductor_Microstrip_Theory_2_Conductor/Multiconductor_Microstrip_Theory_2_Conductor.htm">HTML</a></td>
           <td><a href="Microstrip/Near_End_Cross_Talk_Mathematica_Code_Based_On_Theory_Hill_1994.png">Near  End Cross Talk S13</a></td>
         </tr>
         <tr>
@@ -51,14 +51,14 @@ Visit <a href="https://www.RadioCalc.com">RAdioCalc</a>.
           <th width="484" scope="col">Description</th>
           <th width="87" scope="col">Code</th>
           <th width="81" scope="col">WEB View</th>
-          <th width="81" scope="col">Graphic</th>
+          <th width="400" scope="col">Graphic</th>
         </tr>
         <tr>
           <td><div align="center">1</div></td>
           <td>Mathematica&reg; Code for Computing the Per Unit Inductance and Capacitance Matrices for Multiconductor Microstrip Systems.&nbsp; Based on FORTRAN Code by Clayton Paul. See comments.</td>
           <td><a href="Microstrip/PerUnitLengthCalcMultiConductorMicroStrip.nb">Notebook</a></td>
-          <td><a href="Microstrip/WEBViews/PerUnitLengthCalcMultiConductorMicroStrip/PerUnitLengthCalcMultiConductorMicroStrip.htm">HTML</a></td>
-          <td><a href="Microstrip/WEBViews/PerUnitLengthCalcMultiConductorMicroStrip/PerUnitLengthCalcMultiConductorMicroStrip.htm"><img src="Microstrip/Tool_PerUnitParameters_Microstrip.png" width="331" height="124" alt=""/></a></td>
+          <td><a href="https://www.radiocalc.com/MultiConductorCAD/Microstrip/WEBViews/PerUnitLengthCalcMultiConductorMicroStrip/PerUnitLengthCalcMultiConductorMicroStrip.htm">HTML</a></td>
+          <td><img src="Microstrip/Tool_PerUnitParameters_Microstrip.png" width="331" height="124" alt=""/></td>
         </tr>
         <tr>
           <td><div align="center"></div></td>
