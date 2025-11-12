@@ -71,7 +71,10 @@ Visit <a href="https://www.RadioCalc.com">RadioCalc</a>.
       </tbody>
     </table>
     <h2 class="style1">References:</h2>
-    <p style="margin-left:1em;">1- Mike Riddle, Sasan Ardalan, John Suh,<strong> Derivation of Voltage and Current Transfer Functions for Multiconductor Transmission Lines</strong>,CCSP, NC State University, 1988. Also published in the<span style="margin-left:1em;"> <em>IEEE International Conference on Circuits and Systems</em>, 1989</span>. For CCSP NC State Report see the <span style="margin-left:1em;"><a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"><img src="../pdf.gif" width="22" height="21" alt=""/>PDF Report</a></span>.</p>
+    <p style="margin-left:1em;">1- Mike Riddle, Sasan Ardalan, John Suh,<strong> Derivation of Voltage and Current Transfer Functions for Multiconductor Transmission Lines</strong>,CCSP, NC State University, 1988. 
+        <p style="margin-left:1em;"> Also published in the<span style="margin-left:1em;"> <em>IEEE International Conference on Circuits and Systems</em>, 1989</span>. 
+            <BR>
+<p style="margin-left:1em;">For CCSP NC State Report see the PDF Report <a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"> here</a>.    
     <p style="margin-left:1em;">2- David A.Hill, Kenneth H.Cavcey, Robert T.Johnk, <strong>Crosstalk Between Microstrip Transmission Lines,</strong><em> IEEE Transactions on Electromagnetic Compatibility,VOL.36,NO.4, November 1</em>994.</p>
     <h2 align="center" class="style1"> Case 1</h2>
     <p align="center"><img src="Microstrip/Near_End_Cross_Talk_Mathematica_Code_Based_On_Ardalan_et_al_1988.png" width="1023" height="842" alt=""/></p>
