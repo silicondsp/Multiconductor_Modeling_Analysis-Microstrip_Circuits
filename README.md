@@ -73,6 +73,7 @@ Visit <a href="https://www.RadioCalc.com">RadioCalc</a>.
     <h2 class="style1">References:</h2>
     <p style="margin-left:1em;">1- Mike Riddle, Sasan Ardalan, John Suh,<strong> Derivation of Voltage and Current Transfer Functions for Multiconductor Transmission Lines</strong>,CCSP, NC State University, 1988. 
         <p style="margin-left:1em;"> Also published in the<span style="margin-left:1em;"> <em>IEEE International Conference on Circuits and Systems</em>, 1989</span>. 
+                    <p style="margin-left:1em;">M. Riddle, S. Ardalan and J. Suh, <strong>"Derivation of voltage and current transfer functions for multiconductor transmission lines,"</strong> <I>1989 IEEE International Symposium on Circuits and Systems (ISCAS),</I> Portland, OR, USA, 1989, pp. 2219-2222 vol.3, doi: 10.1109/ISCAS.1989.100818.
             <BR>
 <p style="margin-left:1em;">For CCSP NC State Report see the PDF Report <a href="Multiconductor_Derivation_Ardalan_Riddle_1988_CCSP.pdf"> here</a>.    
     <p style="margin-left:1em;">2- David A.Hill, Kenneth H.Cavcey, Robert T.Johnk, <strong>Crosstalk Between Microstrip Transmission Lines,</strong><em> IEEE Transactions on Electromagnetic Compatibility,VOL.36,NO.4, November 1</em>994.</p>
